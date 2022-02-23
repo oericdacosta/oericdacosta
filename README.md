@@ -19,7 +19,7 @@ const eric = {
     location: ["Brazil"],
     askMeAbout: ["web dev", "tech", "Formula 1"],
     technologies:{
-        fronEnd: ["HTML", "CSS", "JS"],
+        frontEnd: ["HTML", "CSS", "JS"],
     },
     funFact: "I have one dog but also I'm little afraid of dogs 😅"
 }
