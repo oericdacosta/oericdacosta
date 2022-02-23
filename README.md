@@ -1,6 +1,7 @@
 <h1 align="center">Hello fellow < Developers /> <img src="https://raw.githubusercontent.com/kaueMarques/kaueMarques/master/hi.gif" width="30px">, I'm Eric</h1>
 <h3 align="center">Front-End Developer</h3>
-<img align="right"  src="https://github.com/Adam-pw/Adam-pw/blob/main/animation_500_kxa883sd.gif" alt="adam-pw" no-repeat />
+<img align="right"  src="https://github.com/Adam-pw/Adam-pw/blob/main/animation_500_kxa883sd.gif" alt="adam-pw" width="45%" />
+<br>
 <h2>👨‍💻 About Me</h2>
 
 - 📚 I'm a Computer engineering student.
@@ -10,8 +11,6 @@
 - 🌐 It's fun to code something that anyone on the web can easily see.
 
 - ⚡ I love it when I can finally solve a difficult problem.
-
-
 
 ### <img src="https://camo.githubusercontent.com/fab95a765b1aceb9f1023ecba5af5bd2aa9e3706b0cf132bce3c7da05608d233/68747470733a2f2f6f7268756e2e6465762f696d672f63726f772e706e67" width="30"> A little more about me...  
 
