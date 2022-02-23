@@ -1,6 +1,6 @@
 <h1 align="center">Hello fellow < Developers /> <img src="https://raw.githubusercontent.com/kaueMarques/kaueMarques/master/hi.gif" width="30px">, I'm Eric</h1>
 <h3 align="center">Front-End Developer</h3>
-<img align="right"  src="https://github.com/Adam-pw/Adam-pw/blob/main/animation_500_kxa883sd.gif" alt="adam-pw" width="45%" />
+<img align="right"  src="https://github.com/Adam-pw/Adam-pw/blob/main/animation_500_kxa883sd.gif" alt="adam-pw" width="450px" />
 <br>
 <h2>👨‍💻 About Me</h2>
 
