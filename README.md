@@ -31,7 +31,7 @@ const eric = {
 <div align="center">
   <a href="https://github.com/oericdacosta">
     <img src="https://activity-graph.herokuapp.com/graph?username=oericdacosta&theme=redical&hide_border=true&area=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=oericdacosta&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=oericdacosta&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=oericdacosta&layout=compact&langs_count=7&theme=dracula"/>
 </div></a>
 
