@@ -8,6 +8,8 @@
 
 - 💻 I’m currently learning Front-End Web Development.
 
+- 👨‍💻 I’m a Front-End developer at "Loading Desenvolvimento Jr".
+
 - 🌐 It's fun to code something that anyone on the web can easily see.
 
 - ⚡ I love it when I can finally solve a difficult problem.
@@ -19,9 +21,9 @@ const eric = {
     location: ["Brazil"],
     askMeAbout: ["web dev", "tech", "Formula 1"],
     technologies:{
-        frontEnd: ["HTML", "CSS", "JS"],
+        frontEnd: ["HTML", "CSS", "JS", "Bootsrap"],
+        tools: ["Git", "VS Code"],
     },
-    funFact: "I have one dog but also I'm little afraid of dogs 😅"
 }
 ```
 
