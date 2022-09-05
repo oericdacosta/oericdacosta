@@ -4,11 +4,11 @@
 <br>
 <h2>👨‍💻 About Me</h2>
 
+- 👨‍💻 I’m a Front-End developer at "Loading Desenvolvimento Jr".
+
 - 📚 I'm a Computer engineering student.
 
 - 💻 I’m currently learning Front-End Web Development.
-
-- 👨‍💻 I’m a Front-End developer at "Loading Desenvolvimento Jr".
 
 - 🌐 It's fun to code something that anyone on the web can easily see.
 
