@@ -8,7 +8,7 @@
 
 - 📚 I'm a Computer engineering student.
 
-- 💻 I’m currently learning Front-End Web Development.
+- 💻 I’m currently learning Front-End Web Development and Data Science.
 
 - 🌐 It's fun to code something that anyone on the web can easily see.
 
@@ -19,10 +19,11 @@
 ```javascript
 const eric = {
     location: ["Brazil"],
-    askMeAbout: ["web dev", "tech", "Formula 1"],
+    askMeAbout: ["web dev", "Data Science", "Formula 1"],
     technologies:{
         frontEnd: ["HTML", "CSS", "JS", "Bootsrap"],
         tools: ["Git", "VS Code"],
+        dataScience: ["Python", "R"],
     },
 }
 ```
@@ -44,6 +45,8 @@ const eric = {
   <img align="center" alt="Eric-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
   <img align="center" alt="Eric-java" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg">
   <img align="center" alt="Eric-C" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg">
+  <img align="center" alt="Eric-java" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
+  <img align="center" alt="Eric-java" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/r/r-original.svg">
 </div>
 
 <h2>Connect with me <img src='https://raw.githubusercontent.com/ShahriarShafin/ShahriarShafin/main/Assets/handshake.gif' width="100px"> </h2>
